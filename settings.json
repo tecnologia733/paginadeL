@@ -1,28 +1,28 @@
 {
   "metaTitle": "Bio!",
   "metaDescription": "My meta description.",
-  "name": "Biolink Roberto",
+  "name": "Seu Nome",
   "theme": "glitch",
   "avatarImage": "https://roberto.tecinovaservicos.com.br/images/home-pic.png",
   "links": [
     {
       "url": "https://roberto.tecinovaservicos.com.br",
-      "text": "Botões ideais para você colocar uma descrição mais longa do seu projeto",
+      "text": "Botão ideal para você colocar a descrição daquele projeto",
       "img":"",
       "altText": "TECiNOVA generative art"
     },
     {
-      "url": "https://tecinovaservicos.com.br/privacidade.html",
-      "text": "Leia nossa declaração de privacidade",
+      "url": "https://tecinovaservicos.com.br",
+      "text": "Visite nosso site",
       "img": ""
     }
   ],
   "social": {
     "glitch": "",
-    "spotify": "",
-    "substack": "https://robertoalves.substack.com/",
+    "spotify": "https://www.spotify.com/br/",
+    "substack": "",
     "dev": "",
-    "facebook": "",
+    "facebook": "https://web.facebook.com/tecinovaservicos/",
     "github": "",
     "gitlab": "",
     "hashnode": "",
@@ -31,8 +31,8 @@
     "medium": "",
     "patreon": "",
     "pinterest": "https://br.pinterest.com/tecinovaservicos/",
-    "twitter": "https://twitter.com/alvesrobertob",
-    "youtube": "https://www.youtube.com/c/alvesrobertob/",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://www.youtube.com/c/robertotecinova/",
     "twitch": "",
     "tiktok": "",
     "podcast": "",

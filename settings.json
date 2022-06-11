@@ -3,7 +3,7 @@
   "metaDescription": "My meta description.",
   "name": "Seu Nome",
   "theme": "glitch",
-  "avatarImage": "https://roberto.tecinovaservicos.com.br/images/home-pic.png",
+  "avatarImage": "https://www.quadrorama.com.br/wp-content/uploads/2018/05/quadro-com-foto-imagem-personalizada.png",
   "links": [
     {
       "url": "https://roberto.tecinovaservicos.com.br",
@@ -13,7 +13,7 @@
     },
     {
       "url": "https://tecinovaservicos.com.br",
-      "text": "Visite nosso site",
+      "text": "Nosso website",
       "img": ""
     }
   ],
@@ -32,11 +32,11 @@
     "patreon": "",
     "pinterest": "https://br.pinterest.com/tecinovaservicos/",
     "twitter": "https://twitter.com/",
-    "youtube": "https://www.youtube.com/c/robertotecinova/",
+    "youtube": "https://www.youtube.com/channel/UCEpSnZdrYPZG_uUarv0Iomw",
     "twitch": "",
-    "tiktok": "",
+    "tiktok": "https://www.tiktok.com/pt-BR",
     "podcast": "",
-    "soundcloud": "",
+    "soundcloud": "https://soundcloud.com/padrepauloricardo/tracks",
     "bandcamp": "",
     "mastodon": "",
     "stackoverflow": "",

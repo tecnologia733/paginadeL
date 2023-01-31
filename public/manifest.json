@@ -1,18 +1,18 @@
 {
-  "name": "Glitch in Bio",
-  "short_name": "Glitch in Bio",
-  "description": "Your very own link-in-bio app!",
+  "name": "Seu Nome",
+  "short_name": "Seu Nome",
+  "description": "",
   "icons": [
     {
       "sizes": "800x800",
       "type": "image/png",
-      "src": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+      "src": "https://brothersanimes.loja2.com.br/img/4b9f6fb2848f9ab32b18a58eef44dd12.jpg?v=1624643105812",
       "purpose": "any"
     },
     {
       "sizes": "180x180",
       "type": "image/png",
-      "src": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Ftouch-icon.png?v=1633521972305",
+      "src": "https://brothersanimes.loja2.com.br/img/4b9f6fb2848f9ab32b18a58eef44dd12.jpg?v=1633521972305",
       "purpose": "maskable"
     }
   ],

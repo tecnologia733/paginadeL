@@ -9,7 +9,7 @@
       "url": "https://roberto.tecinovaservicos.com.br",
       "text": "Botão ideal para você colocar a descrição daquele projeto",
       "img":"",
-      "altText": "TECiNOVA generative art"
+      "altText": "TIM generative art"
     },
     {
       "url": "https://tecinovaservicos.com.br",
@@ -19,28 +19,28 @@
   ],
   "social": {
     "glitch": "",
-    "spotify": "https://www.spotify.com/br/",
+    "spotify": "",
     "substack": "",
     "dev": "",
-    "facebook": "https://web.facebook.com/tecinova.top/",
+    "facebook": "",
     "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "https://instagram.com/tecinova.top",
-    "linkedin": "https://www.linkedin.com/in/robertotecinova/",
+    "instagram": "",
+    "linkedin": "",
     "medium": "",
     "patreon": "",
-    "pinterest": "https://br.pinterest.com/",
-    "twitter": "https://twitter.com/",
-    "youtube": "https://www.youtube.com/channel/UCfJaBT65Lo6J4KZpZLtvvrg",
+    "pinterest": "",
+    "twitter": "",
+    "youtube": "",
     "twitch": "",
-    "tiktok": "https://www.tiktok.com/pt-BR",
+    "tiktok": "",
     "podcast": "",
-    "soundcloud": "https://soundcloud.com/padrepauloricardo/tracks",
+    "soundcloud": "",
     "bandcamp": "",
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "contato@tecinovaservicos.com.br"
+    "email": "roberto@tecinovaservicos.com.br"
   }
 }

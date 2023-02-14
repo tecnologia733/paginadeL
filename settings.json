@@ -7,9 +7,19 @@
   "links": [
     {
       "url": "https://forms.gle/Xnuh7dcWPK1vCgDL6",
-      "text": "Pré-pedido",
+      "text": "Quero ser cliente",
       "img":"",
       "altText": "TIM generative art"
+    },
+     {
+      "url": "https://roberto.tecinovaservicos.com.br/agendar-horario.html",
+      "text": "Agendar visita",
+      "img": ""
+    },
+     {
+      "url": "https://tecinovaservicos.com.br/category/tim/",
+      "text": "Tutoriais",
+      "img": ""
     },
     {
       "url": "https://tecinovaservicos.com.br/category/tim/",

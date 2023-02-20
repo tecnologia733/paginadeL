@@ -22,14 +22,14 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
   --color-bg: #004691;
   --color-bg-alt: #eb0028;
   --color-text-main: #eb0028;
-  --color-primary: #FFFFFF;
+  --color-primary: #004691;
   --theme-color-title: #FFFFFF;
   --font-family: "HK Grotesk";
   --font-family-header: "HK Grotesk";
   --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
 }
 body {
-  background: fixed linear-gradient(0deg, #004691, #004691);
+  background: fixed linear-gradient(0deg, #D7F5EF, #004691);
 }
 
 ul.link-list li a {

@@ -21,7 +21,7 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 :root {
   --color-bg: #004691;
   --color-bg-alt: #eb0028;
-  --color-text-main: #000000;
+  --color-text-main: #eb0028;
   --color-primary: #FFFFFF;
   --theme-color-title: #FFFFFF;
   --font-family: "HK Grotesk";

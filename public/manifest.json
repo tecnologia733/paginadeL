@@ -6,18 +6,18 @@
     {
       "sizes": "800x800",
       "type": "image/png",
-      "src": "https://i.postimg.cc/90rYcKY4/timPJ.png?v=1624643105812",
+      "src": "https://i.postimg.cc/4yFgK5N0/timPJ.png?v=1624643105812",
       "purpose": "any"
     },
     {
       "sizes": "180x180",
       "type": "image/png",
-      "src": "https://i.postimg.cc/90rYcKY4/timPJ.png?v=1633521972305",
+      "src": "https://i.postimg.cc/4yFgK5N0/timPJ.png?v=1633521972305",
       "purpose": "maskable"
     }
   ],
   "display": "standalone",
-  "background_color": "#D7F5EF",
-  "theme_color": "#9480FF",
+  "background_color": "#FFFFFF",
+  "theme_color": "#004691",
   "start_url": "/"
 }

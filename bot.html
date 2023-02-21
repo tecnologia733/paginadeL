@@ -1,1 +1,339 @@
-<iframe src="https://fobi.io/#/embedded/CPxZUhq?chatPrimary=004691&chatSecondary=FFF&chatBotImg=http://res.cloudinary.com/fobi/image/upload/v1677002712/ihpfjsgn4zo9kkpsyko9.png"></iframe>
+
+<!DOCTYPE html>
+<html>
+<head lang="en" dir="rtl">
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700&display=swap" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Concert+One:300,400,700&display=swap" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato" />
+<style>
+
+        [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+            display: none !important;
+        }
+
+
+
+        #bot-loading-wrapper {
+            height: 100vh;
+            width: 100vw;
+            z-index: 1000000;
+            position: fixed;
+            top: 0;
+            left: 0;
+            flex-direction: column;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #ecf2f8;
+            /*background-image: radial-gradient(closest-side, transparent 98%, rgba(0, 0, 0, .013) 99%), radial-gradient(closest-side, transparent 98%, rgba(0, 0, 0, .013) 99%);*/
+            /**/background-size: 80px 80px;
+            /*background-position: 0 0, 40px 40px;*/
+        }
+
+        #bot-loading {
+            max-width: 90%;
+            background-size: contain;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            background-image: url('src/assets/images/BIzbot head.png');
+            height: 5rem;
+            width: 5rem;
+            margin-bottom: 15px;
+        }
+
+
+
+        #bot-loading-pages-wrapper {
+            height: 100%;
+            width: 100%;
+            z-index: 1000000;
+            position: absolute;
+            top: 0;
+            left: 0;
+            flex-direction: column;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #fbfbfd;
+        }
+        
+        .inner-cta-text {
+            font-size: 15px !important;
+            margin-top: 5px !important;
+            margin-bottom: 10px !important;
+            font-weight: 500 !important;
+            margin-top: 4px;
+        }
+
+        #main-area {
+            border-radius: 8px !important;
+        }
+
+        .answer-buttons-wrapper {
+            margin-top: 10px !important;
+        }
+
+        .answer-buttons-wrapper .answer-button:last-child {
+            margin-bottom: 4px;
+        }
+
+        .user-text-input {
+            margin-bottom: 5px !important;
+            margin-top: 14px !important;
+            display: block;
+            height: 30px;
+        }
+
+        .user-text-input-button {
+            display: block;
+            width: 100%;
+            background: transparent !important;
+            margin-bottom: 5px;
+            border-radius: 0 !important;
+            color: #ffffff !important;
+            border: 1px solid #ffffff !important;
+            padding: 5px;
+            margin-top: 12px !important;
+            transition: 0.3s;
+        }
+
+        .user-text-input-button:hover {
+            background: #ffffff !important;
+            color: #000000 !important;
+        }
+
+        button.answer-button {
+            margin: 7px 0 !important;
+            margin-right: 0 !important;
+            width: 100% !important;
+            transition: 0.3s;
+            background: transparent;
+            border: 1px solid white !important;
+            outline: none !important;
+            background-color: transparent;
+            color: white;
+            padding: 10px !important;
+            font-size: 14px;
+            border-radius: 50px;
+        }
+
+        button.answer-button:hover {
+             -webkit-transform: scale(1) !important;
+            transform: scale(1) !important;
+            background: #ffffff !important;
+            color: #000000 !important;
+        }
+
+
+    div#wave {
+        position: relative;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    div#wave .dot {
+        display: inline-block;
+        width: 4px;
+        height: 4px;
+        border-radius: 50%;
+        margin-right: 1px;
+        background: #303131;
+        animation: wave 1.2s linear infinite;
+    }
+    div#wave .dot:nth-child(2) {
+        animation-delay: -1s;
+    }
+    div#wave .dot:nth-child(3) {
+        animation-delay: -0.8s;
+    }
+
+    @keyframes wave {
+        0%, 60%, 100% {
+            transform: initial;
+        }
+        30% {
+            transform: translateY(-6px);
+        }
+    }
+
+        /*Loading*/
+        .lds-ellipsis.ng-hide {
+            opacity: 0;
+        }
+
+        .lds-ellipsis {
+            transition: all linear 2s;
+            opacity: 1;
+            display: inline-block;
+            position: relative;
+            width: 92px;
+            height: 64px;
+        }
+        .lds-ellipsis div {
+            position: absolute;
+            top: 27px;
+            width: 11px;
+            height: 11px;
+            border-radius: 50%;
+            background: #3c6cb5;
+            animation-timing-function: cubic-bezier(0, 1, 1, 0);
+        }
+        .lds-ellipsis div:nth-child(1) {
+            left: 6px;
+            animation: lds-ellipsis1 0.6s infinite;
+        }
+        .lds-ellipsis div:nth-child(2) {
+            left: 16px;
+            animation: lds-ellipsis2 0.6s infinite;
+        }
+        .lds-ellipsis div:nth-child(3) {
+            left: 47px;
+            animation: lds-ellipsis2 0.6s infinite;
+        }
+        .lds-ellipsis div:nth-child(4) {
+            left: 60px;
+            animation: lds-ellipsis3 0.6s infinite;
+        }
+        @keyframes lds-ellipsis1 {
+            0% {
+                transform: scale(0);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+        @keyframes lds-ellipsis3 {
+            0% {
+                transform: scale(1);
+            }
+            100% {
+                transform: scale(0);
+            }
+        }
+        @keyframes lds-ellipsis2 {
+            0% {
+                transform: translate(0, 0);
+            }
+            100% {
+                transform: translate(19px, 0);
+            }
+        }
+
+        /*end loading*/
+
+    </style>
+<script type="125f7a951a6d9dd751a2ecb8-text/javascript">
+
+
+    </script>
+
+<script type="125f7a951a6d9dd751a2ecb8-text/javascript">
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () {
+                    (h.hj.q = h.hj.q || []).push(arguments)
+                };
+            h._hjSettings = {hjid: 502000, hjsv: 5};
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script');
+            r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+
+
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148143805-3" type="125f7a951a6d9dd751a2ecb8-text/javascript"></script>
+<script type="125f7a951a6d9dd751a2ecb8-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-148143805-3');
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+<link rel="icon" type="image/x-icon" href="src/assets/images/BIzbot head.png" />
+<title>Fobi.io create a bot for your google forms</title>
+</head>
+<body ng-controller="AppCtrl" dir="ltr" md-theme="customTheme" style="display:none;" ng-style="{'display':'block'}" ng-cloak="">
+<div class="font_preload" style="opacity: 0">
+<span style="font-family: 'Poppins', Arial, sans-serif;"></span>
+<span style="font-family: 'Poppins:700', Arial, sans-serif; font-weight: 700;"></span>
+<span style="font-family: 'Concert One', Arial, sans-serif;"></span>
+</div>
+<div id="bot-loading-pages-wrapper" ng-show="!isPageLoaded" ng-cloak>
+ 
+<div class="lds-ellipsis animated fadeIn" ng-show="!isPageLoaded" ng-cloak><div></div><div></div><div></div><div></div></div>
+<span style="color:transparent">Loading...</span>
+</div>
+
+
+
+
+
+
+
+<md-toolbar id="site-toolbar" class=" site-content-toolbar" ng-if="isPageLoaded && showHeaderAndFooter" nav-module="" set-class-when-not-at-top="scroll-not-top" ng-cloak>
+<div class="col-lg-offset-2 col-sm-offset-1 col-lg-8 col-sm-11">
+<a id="bizbot-logo" class="col-sm-12 col-md-4" href="https://fobi.io" style="background-color: transparent !important;">
+</a>
+<div id="top-menu" class="hidden-sm col-md-8">
+<a href="https://fobi.io" target="_blank">Home</a>
+<a href="https://fobi.io/how-it-works/" target="_blank">How it works?</a>
+<a href="https://fobi.io/faqs/" target="_blank">FAQs</a>
+</div>
+</div>
+</md-toolbar>
+<div id="main-area" class="page-container overflow-x" ui-view ng-cloak ng-show="isPageLoaded"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="125f7a951a6d9dd751a2ecb8-application/javascript" src="loader.js?version=1.2.1"></script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="125f7a951a6d9dd751a2ecb8-|49" defer=""></script></body>
+</html>

@@ -38,17 +38,22 @@
     },
     {
       "url": "https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaHistoricoRecenteCtg",
-      "text": "Consultar número de celular",
+      "text": "Consultar portabilidade",
       "img": ""
     },
-    {
-      "url": "https://mei.receita.economia.gov.br/certificado",
-      "text": "Download CCMEI",
+     {
+      "url": "https://cadastropre.com.br/",
+      "text": "Consultar pré-pago",
       "img": ""
     },
     {
       "url": "https://timnegocia.com.br/",
       "text": "TIM Negocia",
+      "img": ""
+    },
+     {
+      "url": "https://mei.receita.economia.gov.br/certificado",
+      "text": "Download CCMEI",
       "img": ""
     },
     {

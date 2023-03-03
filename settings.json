@@ -27,6 +27,31 @@
       "img": ""
     },
     {
+      "url": "https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp",
+      "text": "Consultar CNPJ",
+      "img": ""
+    },
+    {
+      "url": "https://dfe-portal.svrs.rs.gov.br/NFE/CCC",
+      "text": "Consultar inscrição estadual",
+      "img": ""
+    },
+    {
+      "url": "https://mei.receita.economia.gov.br/certificado",
+      "text": "Download certificado MEI",
+      "img": ""
+    },
+    {
+      "url": "https://agstelecom.com.br/webmail",
+      "text": "Webmail",
+      "img": ""
+    },
+    {
+      "url": "https://agstelecom.com.br/webmail",
+      "text": "Webmail",
+      "img": ""
+    },
+    {
       "url": "https://connect.leobr.net/login/index.php",
       "text": "Cursos",
       "img": ""

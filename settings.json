@@ -1,7 +1,7 @@
 {
   "metaTitle": "TIM Empresas",
-  "metaDescription": "Agente autorizado",
-  "name": "Agente Autorizado",
+  "metaDescription": "Agente Autorizado",
+  "name": "AGS Telecom",
   "theme": "glitch",
   "avatarImage": "https://i.postimg.cc/SKz4GWcL/TIMEmp.png",
   "links": [
@@ -22,20 +22,20 @@
       "img": ""
     },
     {
-      "url": "https://roberto.tecinovaservicos.com.br/agendar-horario.html",
-      "text": "Agendar visita",
+      "url": "https://agstelecom.com.br/webmail",
+      "text": "Webmail",
       "img": ""
     },
     {
-      "url": "https://tecinovaservicos.com.br/category/tim/",
-      "text": "Passo a passo",
+      "url": "https://connect.leobr.net/login/index.php",
+      "text": "Cursos",
       "img": ""
     }
   ],
   "social": {
     "glitch": "",
     "spotify": "",
-    "substack": "https://timempresas.substack.com/",
+    "substack": "",
     "dev": "https://roberto.tecinovaservicos.com.br",
     "facebook": "",
     "github": "",
@@ -56,6 +56,6 @@
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "roberto@tecinovaservicos.com.br"
+    "email": ""
   }
 }

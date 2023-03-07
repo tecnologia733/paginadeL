@@ -72,6 +72,16 @@
       "text": "Mapa de cobertura da TIM",
       "img": ""
     },
+     {
+      "url": "https://meutim.tim.com.br/novo/login",
+      "text": "Meu TIM",
+      "img": ""
+    },
+    {
+      "url": "tel:08008882373",
+      "text": "0800 Cobrança TIM",
+      "img": ""
+    },
     {
       "url": "https://connect.leobr.net/login/index.php",
       "text": "Cursos",

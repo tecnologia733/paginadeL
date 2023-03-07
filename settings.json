@@ -9,13 +9,13 @@
       "url": "https://docs.google.com/spreadsheets/d/1L0ONIaRF5gIxHvJW4hZIzJGZcXf8qhZ1DZBaVAqQIgU/edit?usp=sharing",
       "text": "MATRIZ DE DOCUMENTAÇÃO POR TIPO DE PEDIDO E EMPRESA",
       "img":"",
-      "altText": "TIM"
+      "altText": ""
     },
      {
       "url": "https://pacportal.timbrasil.com.br/",
       "text": "PAC - Portal de Autenticação Centralizada (EASY, VERO, P2B, PCONSUMER - Tá na Rede)",
       "img":"",
-      "altText": "TIM"
+      "altText": ""
     },
      {
       "url": "https://portaleasyvendas.timbrasil.com.br/EasyVendasWeb/#!/acesso/login/",
@@ -65,6 +65,11 @@
      {
       "url": "https://mei.receita.economia.gov.br/certificado",
       "text": "Download CCMEI",
+      "img": ""
+    },
+     {
+      "url": "https://www.tim.com.br/para-voce/cobertura-e-roaming/mapa-de-cobertura",
+      "text": "Mapa de cobertura da TIM",
       "img": ""
     },
     {

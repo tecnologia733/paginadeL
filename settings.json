@@ -33,7 +33,7 @@
     },
     {
       "url": "https://mei.receita.economia.gov.br/certificado",
-      "text": "Download Certificado MEI",
+      "text": "Certificado MEI",
       "img": ""
     },
     {
@@ -92,7 +92,7 @@
     "glitch": "",
     "spotify": "",
     "substack": "",
-    "dev": "https://roberto.tecinovaservicos.com.br",
+    "dev": "",
     "facebook": "",
     "github": "",
     "gitlab": "",
@@ -112,6 +112,6 @@
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": ""
+    "email": "roberto.santos@agstelecom.com.br"
   }
 }

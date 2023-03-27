@@ -77,6 +77,11 @@
       "img": ""
     },
      {
+      "url": "https://wcad.tim.com.br/",
+      "text": "Consulte seu pacote de dados",
+      "img": ""
+    },
+     {
       "url": "https://docs.google.com/spreadsheets/d/1L0ONIaRF5gIxHvJW4hZIzJGZcXf8qhZ1DZBaVAqQIgU/edit?usp=sharing",
       "text": "MATRIZ DE DOCUMENTAÇÃO POR TIPO DE PEDIDO E EMPRESA",
       "img":"",
@@ -112,6 +117,6 @@
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "roberto.santos@agstelecom.com.br"
+    "email": ""
   }
 }

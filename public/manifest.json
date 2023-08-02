@@ -1,0 +1,23 @@
+{
+  "name": "TIM Empresas",
+  "short_name": "TIM Empresas",
+  "description": "Agente Autorizado",
+  "icons": [
+    {
+      "sizes": "800x800",
+      "type": "image/png",
+      "src": "https://i.postimg.cc/xCS5Hxf4/TIM.png?v=1624643105812",
+      "purpose": "any"
+    },
+    {
+      "sizes": "180x180",
+      "type": "image/png",
+      "src": "https://i.postimg.cc/xCS5Hxf4/TIM.png?v=1633521972305",
+      "purpose": "maskable"
+    }
+  ],
+  "display": "fullscreen",
+  "background_color": "#FFFFFF",
+  "theme_color": "#004691",
+  "start_url": "/"
+}

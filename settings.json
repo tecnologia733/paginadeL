@@ -1,0 +1,117 @@
+{
+  "metaTitle": "TIM Empresas",
+  "metaDescription": "Agente Autorizado AGS TELECOM",
+  "name": "AGS TELECOM",
+  "theme": "glitch",
+  "avatarImage": "https://i.postimg.cc/SKz4GWcL/TIMEmp.png",
+  "links": [
+     {
+      "url": "https://photos.app.goo.gl/fgnkBRsKfW3gJoaG8",
+      "text": "Imagens Marketing & Vendas",
+      "img": ""
+    },
+    {
+      "url": "https://vtme2.orbitsistemas.com.br/agstelecom_v2/index.html#/",
+      "text": "VTME",
+      "img": ""
+    }, 
+      {
+      "url": "https://portaleasyvendas.timbrasil.com.br/EasyVendasWeb/#!/acesso/login/",
+      "text": "Easy Vendas",
+      "img": ""
+    },
+    {
+      "url": "https://pacportal.timbrasil.com.br/",
+      "text": "PAC - Portal de Autenticação Centralizada (EASY, VERO, P2B, PCONSUMER - Tá na Rede)",
+      "img":"",
+      "altText": ""
+    },
+    {
+      "url": "https://agstelecom.com.br/webmail",
+      "text": "Webmail",
+      "img": ""
+    },
+    {
+      "url": "https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp",
+      "text": "Consultar CNPJ",
+      "img": ""
+    },
+    {
+      "url": "https://mei.receita.economia.gov.br/certificado",
+      "text": "Certificado MEI",
+      "img": ""
+    },
+    {
+      "url": "https://dfe-portal.svrs.rs.gov.br/NFE/CCC",
+      "text": "Consultar inscrição estadual",
+      "img": ""
+    },
+    {
+      "url": "https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaHistoricoRecenteCtg",
+      "text": "Consultar portabilidade - ABR",
+      "img": ""
+    },
+    {
+      "url": "https://timnegocia.com.br/",
+      "text": "TIM Negocia",
+      "img": ""
+    },
+    {
+      "url": "tel:08008882373",
+      "text": "08008882373 - Número cobrança TIM",
+      "img": ""
+    },
+     {
+      "url": "https://meutim.tim.com.br/novo/login",
+      "text": "Meu TIM",
+      "img": ""
+    },
+    {
+      "url": "https://conexis.org.br/numeros/mapa-de-antenas-2/",
+      "text": "Mapa de Antenas",
+      "img": ""
+    },
+     {
+      "url": "https://wcad.tim.com.br/",
+      "text": "Consulte seu pacote de dados",
+      "img": ""
+    },
+     {
+      "url": "https://docs.google.com/spreadsheets/d/1L0ONIaRF5gIxHvJW4hZIzJGZcXf8qhZ1DZBaVAqQIgU/edit?usp=sharing",
+      "text": "MATRIZ DE DOCUMENTAÇÃO POR TIPO DE PEDIDO E EMPRESA",
+      "img":"",
+      "altText": ""
+    },
+    {
+      "url": "https://connect.leobr.net/login/index.php",
+      "text": "Cursos",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "spotify": "",
+    "substack": "",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "linkedin": "",
+    "medium": "",
+    "patreon": "",
+    "pinterest": "",
+    "twitter": "",
+    "youtube": "",
+    "twitch": "",
+    "tiktok": "",
+    "podcast": "",
+    "soundcloud": "",
+    "bandcamp": "",
+    "mastodon": "",
+    "stackoverflow": "",
+    "kofi": "",
+    "email": ""
+  }
+}
